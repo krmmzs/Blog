@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Mouzaisi's Blog
 
-You can use the [editor on GitHub](https://github.com/mouzaisibyl/Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Thinking
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mouzaisibyl/Blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+知道了算法是怎样一步步推导出来的，我们就一下子拥有了大量的记忆提取线索: 对算法发现过程中的任何一个关键步骤（尤其是本质）的回忆都可能使我们能够自己动手推到出剩余的部分
+譬如你知道堆(Heap)是怎样由朴素的决策树演化而来的，它又是为了解决什么问题的，你即便忘记了具体的细节，也可以自己推导出来。譬如你知道KMP的算法本质在于消除回溯，至于如何消除回溯却并不是那么难以推导的，所以即便忘记了也可以借助于大脑的逻辑演绎能力再现出来。或者你知道Tarjan算法其实只是从后序遍历经过两个优化调整而来的。那这个出了名的饶人的算法也就不那么难以理解和记忆了。其中并查集的使用其实只是优化手段----为了能够迅速判断祖先节点是谁----而非算法本质。当然，算法设计的主要任务本来就是通过问题条件中蕴含的知识来”消除冗余计算“和”避免不必要计算“，所以你也可以说并查集的使用是关乎本质的，只不过，知道了为什么需要引入并查集，就会强烈地感受到一切都是顺理成章的了。或者你知道排序的本质，就能够对什么是最优排序及其为何最优有深刻的认识。
