@@ -10,6 +10,8 @@
 
 [Why should I study computer networking](https://graph.org/Why-should-I-study-computer-networking-06-03)
 
+[Fixed and growth mindsets](https://telegra.ph/Fixed-and-growth-mindsets-06-06)
+
 ### small things
 
 [Submarine Cable Map](https://www.submarinecablemap.com/)
