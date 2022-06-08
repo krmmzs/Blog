@@ -12,6 +12,11 @@
 
 [Fixed and growth mindsets](https://telegra.ph/Fixed-and-growth-mindsets-06-06)
 
+### Algorithm
+
+[What is a linked list](https://telegra.ph/What-is-a-linked-list-06-08)
+[markdown](https://mouzaisibyl.github.io/Blog/Algorithm/What_is_a_linked_list.md)
+
 ### small things
 
 [Submarine Cable Map](https://www.submarinecablemap.com/)
