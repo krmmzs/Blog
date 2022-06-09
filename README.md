@@ -6,6 +6,8 @@
 
 [Sophism](https://telegra.ph/Sophism-06-03)
 
+[传统的阅读和思考](https://telegra.ph/%E4%BC%A0%E7%BB%9F%E7%9A%84%E9%98%85%E8%AF%BB%E5%92%8C%E6%80%9D%E8%80%83-06-09)
+
 ### CS
 
 [Why should I study computer networking](https://graph.org/Why-should-I-study-computer-networking-06-03)
