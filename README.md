@@ -8,6 +8,8 @@
 
 [传统的阅读和思考](https://telegra.ph/%E4%BC%A0%E7%BB%9F%E7%9A%84%E9%98%85%E8%AF%BB%E5%92%8C%E6%80%9D%E8%80%83-06-09)
 
+[分享一段圆圈正义里的一段话](https://telegra.ph/%E5%88%86%E4%BA%AB%E4%B8%80%E6%AE%B5%E5%9C%86%E5%9C%88%E6%AD%A3%E4%B9%89%E9%87%8C%E7%9A%84%E4%B8%80%E6%AE%B5%E8%AF%9D-06-13)
+
 ### CS
 
 [Why should I study computer networking](https://graph.org/Why-should-I-study-computer-networking-06-03)
