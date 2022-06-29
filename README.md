@@ -16,6 +16,8 @@
 
 [总结一下最近听到的带洗脑痕迹的用词](https://telegra.ph/%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8B%E6%9C%80%E8%BF%91%E5%90%AC%E5%88%B0%E7%9A%84%E5%B8%A6%E6%B4%97%E8%84%91%E7%97%95%E8%BF%B9%E7%9A%84%E7%94%A8%E8%AF%8D-06-27)
 
+[How to speak](https://telegra.ph/How-To-Speak-06-29)
+
 ### CS
 
 [Why should I study computer networking](https://graph.org/Why-should-I-study-computer-networking-06-03)
